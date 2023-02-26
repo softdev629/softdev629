@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif" width="100"/>
   
   <div id="badges">
-  <a href="your-gmail-URL">
+  <a href="violetstar701@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="your-outlook-URL">
+  <a href="violetstar701@outlook.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook/>
   </a>
-  <a href="your-skype-URL">
+  <a href="violetstar701@outlook.com">
     <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
   </a>
 </div>
@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
