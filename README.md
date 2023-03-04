@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=lean&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -36,6 +36,19 @@
   <a href="https://github.com/violetstar701/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=violetstar701&style=for-the-badge&color=blueviolet"/></a>
 </p>
+
+<details open>
+  <summary><h2>✨ My Status</h2></summary>
+  
+  - 🔭 I’m currently working on high level of Chatbot project.
+  - 🌱 I’m currently learning AI.
+  - 👯 I’m looking to collaborate on ChatGPT projects.
+  - 🤔 I’m looking for help with OpenAI. 
+  - 💬 Ask me about OpenAI embedding.
+  - 📫 How to reach me: violetstar701@gmail.com
+  - 😄 Pronouns: Raya
+  - ⚡ Fun fact: In my free time, I play the piano which makes my coding style more flexible.
+</details>
 
 <details open> 
   <summary><h2>📘 My Latest Projects</h2></summary>
@@ -129,6 +142,10 @@
 
 <details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+<h3>🚀 Github Achivements</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=violetstar701&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   <h3>🔥 Streak Stats</h3>
 
