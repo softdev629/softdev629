@@ -40,10 +40,10 @@
 <details open>
   <summary><h2>✨ My Status</h2></summary>
   
-  - 🔭 I’m currently working on high level of Chatbot project.
+  - 🔭 I’m currently working on various kinds of Chatbot project.
   - 🌱 I’m currently learning AI.
-  - 👯 I’m looking to collaborate on ChatGPT projects.
-  - 🤔 I’m looking for help with OpenAI. 
+  - 👯 I’m looking to collaborate on Langchain projects.
+  - 🤔 I’m looking for help with Langchain.
   - 💬 Ask me about OpenAI embedding.
   - 📫 How to reach me: violetstar701@gmail.com
   - 😄 Pronouns: Raya
@@ -56,11 +56,11 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/violetstar701/video-trim"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=video-trim&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="video-trim"></a>
-    <a href="https://github.com/violetstar701/wine-service-client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=wine-service-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="wine-service-client"></a>
-    <a href="https://github.com/violetstar701/business-card"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=business-card&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="business-card"></a>
-    <a href="https://github.com/violetstar701/chatbot-crypto-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=chatbot-crypto-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="chatbot-crypto-frontend"></a>
-    <a href="https://github.com/violetstar701/chatbot-crypto-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=chatbot-crypto-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="chatbot-crypto-backend"></a>
+    <a href="https://github.com/violetstar701/simple-chatbot-server"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=simple-chatbot-server&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="simple-chatbot-server"></a>
+    <a href="https://github.com/violetstar701/AI-business-copilot-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=AI-business-copilot-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="AI-business-copilot-frontend"></a>
+    <a href="https://github.com/violetstar701/simple-chatbot-client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=simple-chatbot-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="simple-chatbot-client"></a>
+    <a href="https://github.com/violetstar701/wine-server-flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=wine-server-flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="wine-server-flask"></a>
+    <a href="https://github.com/violetstar701/cartet-figma-vue"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=cartet-figma-vue&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="cartet-figma-vue"></a>
   </p>
 
 <a href="https://github.com/violetstar701?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
