@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=lean&vCenter=true&pause=1000&size=22" /></a>
 </p>
@@ -15,19 +14,15 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/violetstar701" alt="Github" title="Github"><img width="32px" src="./img/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://" alt="Telegram" title="Telegram"><img width="32px" src="./img/telegram.png"/></a>
+  <a href="https://t.me/ai_dev_master" alt="Telegram" title="Telegram"><img width="32px" src="./img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://" alt="Skype" title="Skype"><img width="32px" src="./img/skype.png"/></a>
+  <a href="#" alt="Skype" title="live:.cid.d88bf28aed4708e4"><img width="32px" src="./img/skype.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://" alt="Slack" title="Slack"><img width="32px" src="./img/slack.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://" alt="Whatsapp" title="Whatsapp"><img width="32px" src="./img/whatsapp.png"/></a>
+  <a href="" alt="Slack" title="violetstar701@outlook.com"><img width="32px" src="./img/slack.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <br/>
 
 <!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/violetstar701?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/violetstar701?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -53,8 +48,6 @@
 <details open> 
   <summary><h2>📘 My Latest Projects</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/violetstar701/simple-chatbot-server"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=simple-chatbot-server&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="simple-chatbot-server"></a>
     <a href="https://github.com/violetstar701/AI-business-copilot-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=AI-business-copilot-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="AI-business-copilot-frontend"></a>
@@ -76,7 +69,6 @@
 
   <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="violetstar701's streak" src="https://streak-stats.demolab.com/?user=violetstar701&theme=monokai-metallian&hide_border=true"/>
@@ -86,15 +78,11 @@
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="violetstar701's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=violetstar701&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="violetstar701's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=violetstar701&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="violetstar701's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=violetstar701&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
