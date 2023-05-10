@@ -9,7 +9,7 @@
 </p>
 
 <!-- Social icons section -->
-<!-- <p align="center">
+<p align="center">
   <a href="https://discord.gg/" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="./img/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/violetstar701" alt="Github" title="Github"><img width="32px" src="./img/github.png"/></a>
@@ -21,7 +21,7 @@
   <a href="" alt="Slack" title="violetstar701@outlook.com"><img width="32px" src="./img/slack.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
-<br/> -->
+<br/>
 
 <!-- Social badges section -->
 <p align="center">
@@ -41,7 +41,7 @@
   - 👯 I’m looking to collaborate on Langchain projects.
   - 🤔 I’m looking for help with Langchain.
   - 💬 Ask me about OpenAI embedding.
-  <!-- - 📫 How to reach me: violetstar701@gmail.com -->
+  - 📫 How to reach me: violetstar701@gmail.com
   - 😄 Pronouns: Raya
   - ⚡ Fun fact: In my free time, I play the piano which makes my coding style more flexible.
 </details>
@@ -50,10 +50,10 @@
   <summary><h2>📘 My Latest Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/violetstar701/simple-chatbot-server"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=simple-chatbot-server&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="simple-chatbot-server"></a>
+    <a href="https://github.com/violetstar701/aligolia-vue-ts-tailwind"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=aligolia-vue-ts-tailwind&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="aligolia-vue-ts-tailwind"></a>
     <a href="https://github.com/violetstar701/AI-business-copilot-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=AI-business-copilot-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="AI-business-copilot-frontend"></a>
-    <a href="https://github.com/violetstar701/simple-chatbot-client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=simple-chatbot-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="simple-chatbot-client"></a>
-    <a href="https://github.com/violetstar701/mail-schedule-monitor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=mail-schedule-monitor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="mail-schedule-monitor"></a>
+    <a href="https://github.com/violetstar701/binance-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=binance-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="binance-app"></a>
+    <a href="https://github.com/violetstar701/cartet-figma-vue"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=cartet-figma-vue&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="cartet-figma-vue"></a>
     <a href="https://github.com/violetstar701/crypto-ai-client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=violetstar701&repo=crypto-ai-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="crypto-ai-client"></a>
   </p>
 
