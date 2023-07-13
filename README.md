@@ -36,13 +36,13 @@
 <details open>
   <summary><h2>✨ My Status</h2></summary>
   
-  - 🔭 I’m currently working on various kinds of Chatbot project.
-  - 🌱 I’m currently learning AI.
-  - 👯 I’m looking to collaborate on Langchain projects.
-  - 🤔 I’m looking for help with Langchain.
-  - 💬 Ask me about OpenAI embedding.
-  - 📫 How to reach me: maksymdev701@gmail.com
-  - 😄 Pronouns: Raya
+  - 🔭 I’m currently working on video marketing fullstack project and web scrapping.
+  - 🌱 I’m currently learning Web3.
+  - 👯 I’m looking to collaborate on open-source projects.
+  - 🤔 I’m looking for help with web scrapping.
+  - 💬 Ask me about RTK Query & ChatGPT.
+  - 📫 How to reach me: mmeliukh71@gmail.com
+  - 😄 Pronouns: He/Him
   - ⚡ Fun fact: In my free time, I play the piano which makes my coding style more flexible.
 </details>
 
