@@ -1,16 +1,16 @@
 <p align="center">
   <a href="https://github.com/maksymdev701">
-    <img src="./img/header.png" alt="Raya" /></a>
+    <img src="./img/header.png" alt="Sniper" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=lean&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;6%2B%20years%20of%20coding%20experience;Always%20learning%20trending%20techs&font=Fira%20Code&center=true&width=440&height=45&color=lean&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discord.gg/" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="./img/discord.png"/></a>
+  <a href="https://discord.gg/serhii2346" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="./img/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/maksymdev701" alt="Github" title="Github"><img width="32px" src="./img/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -36,11 +36,11 @@
 <details open>
   <summary><h2>✨ My Status</h2></summary>
   
-  - 🔭 I’m currently working on video marketing fullstack project and web scrapping.
+  - 🔭 I’m currently working on React project with AI.
   - 🌱 I’m currently learning Web3.
   - 👯 I’m looking to collaborate on open-source projects.
   - 🤔 I’m looking for help with web scrapping.
-  - 💬 Ask me about RTK Query & ChatGPT.
+  - 💬 Ask me about React(reduxjs/toolkit, MUI) & ChatGPT.
   - 📫 How to reach me: mmeliukh71@gmail.com
   - 😄 Pronouns: He/Him
   - ⚡ Fun fact: In my free time, I play the piano which makes my coding style more flexible.
@@ -50,11 +50,11 @@
   <summary><h2>📘 My Latest Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/maksymdev701/aligolia-vue-ts-tailwind"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=aligolia-vue-ts-tailwind&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="aligolia-vue-ts-tailwind"></a>
-    <a href="https://github.com/maksymdev701/chatbot-crypto-datawork"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=chatbot-crypto-datawork&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="chatbot-crypto-datawork"></a>
-    <a href="https://github.com/maksymdev701/binance-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=binance-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="binance-app"></a>
-    <a href="https://github.com/maksymdev701/cartet-figma-vue"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=cartet-figma-vue&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="cartet-figma-vue"></a>
-    <a href="https://github.com/maksymdev701/crypto-ai-client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=crypto-ai-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="crypto-ai-client"></a>
+    <a href="https://github.com/maksymdev701/video-marketing-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=video-marketing-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="video-marketing-backend"></a>
+    <a href="https://github.com/maksymdev701/video-marketing-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=video-marketing-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="video-marketing-frontend"></a>
+    <a href="https://github.com/maksymdev701/sony-chatbot-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=sony-chatbot-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="sony-chatbot-frontend"></a>
+    <a href="https://github.com/maksymdev701/sony-chatbot-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=sony-chatbot-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="sony-chatbot-backend"></a>
+    <a href="https://github.com/maksymdev701/html2docx"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=html2docx&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="html2docx"></a>
   </p>
 
 <a href="https://github.com/maksymdev701?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
