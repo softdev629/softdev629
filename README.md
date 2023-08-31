@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/maksymdev701" alt="Github" title="Github"><img width="32px" src="./img/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/ai_dev_master" alt="Telegram" title="Telegram"><img width="32px" src="./img/telegram.png"/></a>
+  <a href="https://t.me/serhiis710" alt="Telegram" title="Telegram"><img width="32px" src="./img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Skype" title="live:.cid.d88bf28aed4708e4"><img width="32px" src="./img/skype.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -50,11 +50,11 @@
   <summary><h2>📘 My Latest Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/maksymdev701/video-marketing-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=video-marketing-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="video-marketing-frontend"></a>
-    <a href="https://github.com/maksymdev701/sony-chatbot-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=sony-chatbot-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="sony-chatbot-frontend"></a>
-    <a href="https://github.com/maksymdev701/html2docx"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=html2docx&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="html2docx"></a>
-    <a href="https://github.com/maksymdev701/news-wise-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=news-wise-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="news-wise-app"></a>
-    <a href="https://github.com/maksymdev701/nlp-explained-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=nlp-explained-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="nlp-explained-backend"></a>
+    <a href="https://github.com/maksymdev701/turbosales_api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=turbosales_api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="turbosales_api"></a>
+    <a href="https://github.com/maksymdev701/turbosales_frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=turbosales_frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="turbosales_frontend"></a>
+    <a href="https://github.com/maksymdev701/genie-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=genie-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="genie-api"></a>
+    <a href="https://github.com/maksymdev701/codegenie-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=codegenie-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="codegenie-react"></a>
+    <a href="https://github.com/maksymdev701/video-marketing-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=video-marketing-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="video-marketing-backend"></a>
   </p>
 
 <a href="https://github.com/maksymdev701?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
