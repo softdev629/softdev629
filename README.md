@@ -10,7 +10,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discord.gg/serhii2346" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="./img/discord.png"/></a>
+  <a href="https://discord.gg/wsZPWawu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="./img/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/maksymdev701" alt="Github" title="Github"><img width="32px" src="./img/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -50,7 +50,7 @@
   <summary><h2>📘 My Latest Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/maksymdev701/turbosales_api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=turbosales_api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="turbosales_api"></a>
+    <a href="https://github.com/maksymdev701/lifesim-client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=lifesim-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="lifesim-client"></a>
     <a href="https://github.com/maksymdev701/turbosales_frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=turbosales_frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="turbosales_frontend"></a>
     <a href="https://github.com/maksymdev701/genie-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=genie-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="genie-api"></a>
     <a href="https://github.com/maksymdev701/codegenie-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maksymdev701&repo=codegenie-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="codegenie-react"></a>
