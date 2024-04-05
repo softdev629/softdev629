@@ -52,11 +52,11 @@
   <summary><h2>📘 My Latest Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/softdev629/sportsbet-client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=sportsbet-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="sportsbet-client"></a>
+    <a href="https://github.com/softdev629/softdev629.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=softdev629.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="softdev629.github.io"></a>
+    <a href="https://github.com/softdev629/codevo-react-jwt-auth"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=codevo-react-jwt-auth&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="codevo-react-jwt-auth"></a>
+    <a href="https://github.com/softdev629/codevo-nodejs-jwt-auth"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=codevo-nodejs-jwt-auth&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="codevo-nodejs-jwt-auth"></a>
     <a href="https://github.com/softdev629/codevo-ecommerce"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=codevo-ecommerce&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="codevo-ecommerce"></a>
     <a href="https://github.com/softdev629/codevo-deliveroo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=codevo-deliveroo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="codevo-deliveroo"></a>
-    <a href="https://github.com/softdev629/codevo-squidgame"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=codevo-squidgame&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="codevo-squidgame"></a>
-    <a href="https://github.com/softdev629/codevo-fdelivery"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=codevo-fdelivery&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="codevo-fdelivery"></a>
   </p>
 
 <a href="https://github.com/softdev629?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
