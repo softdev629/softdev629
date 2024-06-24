@@ -10,15 +10,15 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discordapp.com/users/maksymmeliukh" alt="Discord" title="Dev Pro Tips Discord Server">
+  <a href="https://discord.gg/nkRxwuUW" alt="Discord" title="Dev Pro Tips Discord Server">
   <img width="32px" src="./img/discord.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/softdev629" alt="Github" title="Github"><img width="32px" src="./img/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/serhiishvab86" alt="Telegram" title="Telegram"><img width="32px" src="./img/telegram.png"/></a>
+  <a href="https://t.me/softdev629" alt="Telegram" title="Telegram"><img width="32px" src="./img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://join.skype.com/invite/CjRJbzgryTiO" alt="Skype" title="live:.cid.d88bf28aed4708e4"><img width="32px" src="./img/skype.png"/></a>
+  <a href="https://join.skype.com/lTuBjhHzutth" alt="Skype" title="live:.cid.d88bf28aed4708e4"><img width="32px" src="./img/skype.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://join.slack.com/t/journeytowealth/shared_invite/zt-2fpkzfste-PaVysPB0lqyhv_eqZEXhMg" alt="Slack" title="mmeliukh71@gmail.com"><img width="32px" src="./img/slack.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
