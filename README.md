@@ -20,7 +20,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://join.skype.com/lTuBjhHzutth" alt="Skype" title="live:.cid.d88bf28aed4708e4"><img width="32px" src="./img/skype.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://join.slack.com/t/journeytowealth/shared_invite/zt-2fpkzfste-PaVysPB0lqyhv_eqZEXhMg" alt="Slack" title="mmeliukh71@gmail.com"><img width="32px" src="./img/slack.png"/></a>
+  <a href="https://join.slack.com/t/journeytowealth/shared_invite/zt-2fpkzfste-PaVysPB0lqyhv_eqZEXhMg" alt="Slack" title="vuongtpv@gmail.com"><img width="32px" src="./img/slack.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
 <br/>
