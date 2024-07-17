@@ -43,7 +43,7 @@
   - 👯 I’m looking to collaborate on open-source projects.
   - 🤔 I’m looking for help with upwork.
   - 💬 Ask me about React(reduxjs/toolkit, MUI) & ChatGPT.
-  - 📫 How to reach me: mmeliukh71@gmail.com
+  - 📫 How to reach me: vuongtpv@gmail.com
   - 😄 Pronouns: He/Him
   - ⚡ Fun fact: In my free time, I play the piano which makes my coding style more flexible.
 </details>
