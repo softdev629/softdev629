@@ -38,11 +38,11 @@
 <details open>
   <summary><h2>✨ My Status</h2></summary>
   
-  - 🔭 I’m currently working on Remotask.
+  - 🔭 I’m currently working on Upwork.
   - 🌱 I’m currently learning Web3.
   - 👯 I’m looking to collaborate on open-source projects.
-  - 🤔 I’m looking for help with upwork.
-  - 💬 Ask me about React(reduxjs/toolkit, MUI) & ChatGPT.
+  - 🤔 I’m looking for help with AI trendings.
+  - 💬 Ask me about React(reduxjs/toolkit, MUI) & Generative AI solutions.
   - 📫 How to reach me: vuongtpv@gmail.com
   - 😄 Pronouns: He/Him
   - ⚡ Fun fact: In my free time, I play the piano which makes my coding style more flexible.
@@ -52,11 +52,11 @@
   <summary><h2>📘 My Latest Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/softdev629/learnweb3-nft-whitelist"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=learnweb3-nft-whitelist&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="learnweb3-nft-whitelist"></a>
-    <a href="https://github.com/softdev629/learnweb3-nft-onchain-dao"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=learnweb3-nft-onchain-dao&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="learnweb3-nft-onchain-dao"></a>
-    <a href="https://github.com/softdev629/culture-survey-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=culture-survey-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="culture-survey-app"></a>
-    <a href="https://github.com/softdev629/chatbot-memo-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=chatbot-memo-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="chatbot-memo-backend"></a>
-    <a href="https://github.com/softdev629/sportsbet-server"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=sportsbet-server&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="sportsbet-server"></a>
+    <a href="https://github.com/softdev629/Rasterex-Web-Viewer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=Rasterex-Web-Viewer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Rasterex-Web-Viewer"></a>
+    <a href="https://github.com/softdev629/simple-chatbot-server"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=simple-chatbot-server&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="simple-chatbot-server"></a>
+    <a href="https://github.com/softdev629/simple-chatbot-client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=simple-chatbot-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="simple-chatbot-client"></a>
+    <a href="https://github.com/softdev629/serpia-ui"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=serpia-ui&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="serpia-ui"></a>
+    <a href="https://github.com/softdev629/ton-station-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softdev629&repo=ton-station-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="ton-station-app"></a>
   </p>
 
 <a href="https://github.com/softdev629?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
