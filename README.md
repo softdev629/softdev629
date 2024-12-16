@@ -10,17 +10,14 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discord.gg/nkRxwuUW" alt="Discord" title="Dev Pro Tips Discord Server">
-  <img width="32px" src="./img/discord.png"/>
-  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/softdev629" alt="Github" title="Github"><img width="32px" src="./img/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/softdev629" alt="Telegram" title="Telegram"><img width="32px" src="./img/telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://join.skype.com/lTuBjhHzutth" alt="Skype" title="live:.cid.d88bf28aed4708e4"><img width="32px" src="./img/skype.png"/></a>
+  <a href="https://join.skype.com/K9AqnMRXy2Nf" alt="Skype" title="live:.cid.d88bf28aed4708e4"><img width="32px" src="./img/skype.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://join.slack.com/t/journeytowealth/shared_invite/zt-2fpkzfste-PaVysPB0lqyhv_eqZEXhMg" alt="Slack" title="vuongtpv@gmail.com"><img width="32px" src="./img/slack.png"/></a>
+  <a href="https://join.slack.com/t/vuongtpvgmail-zvd8552/shared_invite/zt-2wehsz0ys-qz7qCqQqZg0WKcUO6r1KyQ" alt="Slack" title="drozd.dev@outlook.com"><img width="32px" src="./img/slack.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
 <br/>
@@ -43,7 +40,7 @@
   - 👯 I’m looking to collaborate on open-source projects.
   - 🤔 I’m looking for help with AI trendings.
   - 💬 Ask me about React(reduxjs/toolkit, MUI) & Generative AI solutions.
-  - 📫 How to reach me: vuongtpv@gmail.com
+  - 📫 How to reach me: drozd.dev@outlook.com
   - 😄 Pronouns: He/Him
   - ⚡ Fun fact: In my free time, I play the piano which makes my coding style more flexible.
 </details>
